@@ -1,4 +1,3 @@
 # countries
 
 Countries:
-Scotland
