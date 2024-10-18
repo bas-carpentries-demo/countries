@@ -1,1 +1,1 @@
-# git-carpentry-countries
+# countries
